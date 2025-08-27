@@ -35,7 +35,6 @@ ENV/
 # Project specific
 plaka_bilgileri.txt
 plaka_bilgileri.xlsx
-*.pt
 
 # Operating System
 .DS_Store
