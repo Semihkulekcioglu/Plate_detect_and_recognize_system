@@ -75,6 +75,9 @@ Press 'q' to quit the program.
 
 ## Output Files
 
+<img width="640" height="640" alt="Output_1" src="https://github.com/user-attachments/assets/450e3608-fe2c-4fa8-ad20-62c2fb40f804" />
+<img width="640" height="640" alt="Output_2" src="https://github.com/user-attachments/assets/ab962fc0-b68f-436c-97aa-513ca381a7fb" />
+
 - `plaka_bilgileri.txt`: Contains timestamp and plate text for each detection
 - `plaka_bilgileri.xlsx`: Excel file with timestamp and plate text in tabular format
 
